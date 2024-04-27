@@ -8,7 +8,8 @@ First thing make new folder and put 2 scripts inside the new folder
 
 After Step 3 You Will have new Text File ( command_file.txt )
 
-it has all your privet keys with command to importprivkey without rescan to make it fast 
+it has all your privet keys with command to importprivkey without rescan to make it fast
+
 ( importprivkey ****** "" false )
 
 Then when u finish close everything and Reopen your wallet with -rescan=1
